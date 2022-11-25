@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "movie theater",
+            "connectString": "postgres://iztvkxse:lcz1JHqywtDRmvPyCi6INjJD-2eFysPf@lucky.db.elephantsql.com/iztvkxse"
+        }
+    ]
+}
